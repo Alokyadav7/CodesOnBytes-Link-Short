@@ -1,2 +1,1 @@
-# CodesOnBytes-Link-Short
-Link-Shortner
+# Url-shortner
